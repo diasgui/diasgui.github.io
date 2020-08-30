@@ -58,7 +58,7 @@ Situação: Concluído; Natureza: Pesquisa.
 
 ## Curiosidades
 
-Sou uma pessoa com interesses em diversas, já quis seguir a área de matemática e física mas acabei por ficar na computação. E dentro da computação tento sempre variar as minhas áreas de atuação pois gosto de aprender um pouco de tudo. No meu tempo livre gosto de jogar jogos online (principalmente CS:GO), assistir filmes, séries e futebol, além de gostar de praticar exercícios (musculação e futebol).
+Sou uma pessoa com interesse em diversas áreas, já quis seguir a área de matemática e física mas acabei por ficar na computação. E dentro da computação tento sempre variar as minhas áreas de atuação pois gosto de aprender um pouco de tudo. No meu tempo livre gosto de jogar jogos online (principalmente CS:GO), assistir filmes, séries e futebol, além de gostar de praticar exercícios (musculação e futebol).
 
 
 ## Contato
