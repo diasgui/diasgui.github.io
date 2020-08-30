@@ -44,7 +44,7 @@ Situação: Concluído; Natureza: Pesquisa.
 
 - OLIVEIRA, R. N. R. ; BELARMINO, G. D. ; RODRIGUEZ, C. L. ; GOYA, D. H. ; VENERO, M. L. F. ; ROCHA, R. V. ; OLIVEIRA JUNIOR, A. P. **Avaliações em Jogos Educacionais: instrumentos de avaliação da reação, aprendizagem e comparação de jogos.** In: Brazilian Symposium on Computers in Education, 2019, Brasília. Proceedings of the SBIE 2019, 2019. [[DOI]](http://dx.doi.org/10.5753/cbie.sbie.2019.972)
 
-- BELARMINO, G. D.; OLIVEIRA, R. N. R. ; ROCHA, R. V. ; GOYA, D. H. **Planejamento e Desenvolvimento de um Jogo Educacional Acessível a Surdos e Pessoas com Deficiência Visual.** In: III Workshop @NUVEM, 2019, Santo André. Núcleo Estratégico de Universos Virtuais, Entretenimento e Mobilidade (NUVEM), 2019.
+- BELARMINO, G. D.; OLIVEIRA, R. N. R. ; ROCHmartkdA, R. V. ; GOYA, D. H. **Planejamento e Desenvolvimento de um Jogo Educacional Acessível a Surdos e Pessoas com Deficiência Visual.** In: III Workshop @NUVEM, 2019, Santo André. Núcleo Estratégico de Universos Virtuais, Entretenimento e Mobilidade (NUVEM), 2019.
 
 ### 2018
 
@@ -61,7 +61,17 @@ Situação: Concluído; Natureza: Pesquisa.
 Sou uma pessoa com interesse em diversas áreas, já quis seguir a área de matemática e física mas acabei por ficar na computação. E dentro da computação tento sempre variar as minhas áreas de atuação pois gosto de aprender um pouco de tudo. No meu tempo livre gosto de jogar jogos online (principalmente CS:GO), assistir filmes, séries e futebol, além de gostar de praticar exercícios (musculação e futebol).
 
 
-## Contato
+## Contato e Redes Sociais
+
+<img src="https://image.flaticon.com/icons/svg/281/281769.svg" alt="gmail icon" width="16"/> g.dias@ufabc.edu.br ou guilhermedbelarmino@gmail.com
+
+<img src="https://image.flaticon.com/icons/svg/124/124010.svg" alt="facebook icon" width="16"/> diasgui
+
+<img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="linkedin icon" width="16"/> guilherme-dias-belarmino-41b071144
+
+<img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="instagram icon" width="16"/> \_diasgui
+
+<img src="https://image.flaticon.com/icons/svg/124/124021.svg" alt="twitter icon" width="16"/> \_diasgui
 
 Você pode entrar em contato comigo através dos meus endereços de e-mail: g.dias@ufabc.edu.br ou guilhermedbelarmino@gmail.com
 
