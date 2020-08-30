@@ -73,6 +73,4 @@ Sou uma pessoa com interesse em diversas áreas, já quis seguir a área de mate
 
 <img src="https://image.flaticon.com/icons/svg/124/124021.svg" alt="twitter icon" width="16"/> \_diasgui
 
-Você pode entrar em contato comigo através dos meus endereços de e-mail: g.dias@ufabc.edu.br ou guilhermedbelarmino@gmail.com
-
 *An english version of this site will be available soon.*
