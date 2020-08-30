@@ -42,7 +42,7 @@ Situação: Concluído; Natureza: Pesquisa.
 ### 2019
 -  BELARMINO, G. D.; GOYA, D. H. **Algoritmos de Assinatura Digital Baseada em Reticulados Candidatos a Padrão Pós-Quântico.** In: XIX Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais -, 2019, São Paulo. XIII Workshop de Trabalhos de Iniciação Científica e de Graduação (WTICG), 2019.
 
-- OLIVEIRA, R. N. R. ; BELARMINO, G. D. ; RODRIGUEZ, C. L. ; GOYA, D. H. ; VENERO, M. L. F. ; ROCHA, R. V. ; OLIVEIRA JUNIOR, A. P. **Avaliações em Jogos Educacionais: instrumentos de avaliação da reação, aprendizagem e comparação de jogos.** In: Brazilian Symposium on Computers in Education, 2019, Brasília. Proceedings of the SBIE 2019, 2019. [[DOI]](http//dx.doi.org/10.5753/cbie.sbie.2019.972)
+- OLIVEIRA, R. N. R. ; BELARMINO, G. D. ; RODRIGUEZ, C. L. ; GOYA, D. H. ; VENERO, M. L. F. ; ROCHA, R. V. ; OLIVEIRA JUNIOR, A. P. **Avaliações em Jogos Educacionais: instrumentos de avaliação da reação, aprendizagem e comparação de jogos.** In: Brazilian Symposium on Computers in Education, 2019, Brasília. Proceedings of the SBIE 2019, 2019. [[DOI]](http://dx.doi.org/10.5753/cbie.sbie.2019.972)
 
 - BELARMINO, G. D.; OLIVEIRA, R. N. R. ; ROCHA, R. V. ; GOYA, D. H. **Planejamento e Desenvolvimento de um Jogo Educacional Acessível a Surdos e Pessoas com Deficiência Visual.** In: III Workshop @NUVEM, 2019, Santo André. Núcleo Estratégico de Universos Virtuais, Entretenimento e Mobilidade (NUVEM), 2019.
 
