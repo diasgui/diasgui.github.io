@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Me chamo Guilherme Dias, sou estudante de mestrado no [Programa de Pós-Graduação da Universidade Federal do ABC (UFABC)](http://poscomp.ufabc.edu.br/), com interesse nas seguintes áreas de pesquisa:
+Me chamo Guilherme Dias, sou estudante de mestrado no [Programa de Pós-Graduação da Universidade Federal do ABC (UFABC)](http://poscomp.ufabc.edu.br/), bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e tenho interesse nas seguintes áreas de pesquisa:
 
 1. Jogos sérios e educacionais;
 2. Acessibilidade em jogos;
@@ -61,7 +61,7 @@ Situação: Concluído; Natureza: Pesquisa.
 Sou uma pessoa com interesses em diversas, já quis seguir a área de matemática e física mas acabei por ficar na computação. E dentro da computação tento sempre variar as minhas áreas de atuação pois gosto de aprender um pouco de tudo. No meu tempo livre gosto de jogar jogos online (principalmente CS:GO), assistir filmes, séries e futebol, além de gostar de praticar exercícios (musculação e futebol).
 
 
-### Contato
+## Contato
 
 Você pode entrar em contato comigo através dos meus endereços de e-mail: g.dias@ufabc.edu.br ou guilhermedbelarmino@gmail.com
 
