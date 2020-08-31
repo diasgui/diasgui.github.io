@@ -1,3 +1,5 @@
+<img align=right width=150 border=0 alt="guilherme's photo" src="https://avatars1.githubusercontent.com/u/31046799?s=400&u=29251a9a07d48443fabe7ae4bafb6163faec7560&v=4">
+
 ## Sobre Mim
 
 Me chamo Guilherme Dias, sou estudante de mestrado no [Programa de Pós-Graduação da Universidade Federal do ABC (UFABC)](http://poscomp.ufabc.edu.br/), bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e tenho interesse nas seguintes áreas de pesquisa:
