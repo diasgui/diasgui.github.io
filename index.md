@@ -43,19 +43,19 @@ Situação: Concluído; Natureza: Pesquisa.
 
 ### 2021
 
--  BELARMINO, Guilherme Dias; OLIVEIRA, Rháleff Nascimento; RODRIGUEZ, Carla Lopes; GOYA, Denise Hideko; ROCHA, Rafaela Vilela. Descrição e análise dos processos de produção de um jogo educacional e seus impactos na sua qualidade. XX Brazilian Symposium on Computer Games and Digital Entertainment, SBGames 2021, Trilha Educação.
+-  BELARMINO, Guilherme Dias; OLIVEIRA, Rháleff Nascimento; RODRIGUEZ, Carla Lopes; GOYA, Denise Hideko; ROCHA, Rafaela Vilela. **Descrição e análise dos processos de produção de um jogo educacional e seus impactos na sua qualidade.** XX Brazilian Symposium on Computer Games and Digital Entertainment, SBGames 2021, Trilha Educação.
 
--  OLIVEIRA, R.N.R.; BELARMINO, G.D.; RODRIGUEZ, C,; GOYA, D,; ROCHA, R.V.; VENERO, M.L.F.; BENITEZ, P.; KUMADA, K.M.O. Desenvolvimento e Avaliação da Usabilidade e Acessibilidade de um Protótipo de Jogo Educacional Digital para Pessoas com Deficiência Visual. Revista Brasileira de Educação Especial [online]. 2021, v. 27.
+-  OLIVEIRA, R.N.R.; BELARMINO, G.D.; RODRIGUEZ, C,; GOYA, D,; ROCHA, R.V.; VENERO, M.L.F.; BENITEZ, P.; KUMADA, K.M.O. **Desenvolvimento e Avaliação da Usabilidade e Acessibilidade de um Protótipo de Jogo Educacional Digital para Pessoas com Deficiência Visual.** Revista Brasileira de Educação Especial [online]. 2021, v. 27.
 
 ### 2020
 
--  BELARMINO, G. D.; SANTOS, A.; CHICARONI, B.; ROCHA, R.V.; GOYA, D.H.; RODRIGUEZ, C.L.; BRANDÃO. A. Experiência do Design Participativo na Prototipação de um Aplicativo Educacional de Conteúdo Acessível a Pessoas com Deficiência. In: IV Workshop @NUVEM, 2020, p. 1-2.
+-  BELARMINO, G. D.; SANTOS, A.; CHICARONI, B.; ROCHA, R.V.; GOYA, D.H.; RODRIGUEZ, C.L.; BRANDÃO. A. **Experiência do Design Participativo na Prototipação de um Aplicativo Educacional de Conteúdo Acessível a Pessoas com Deficiência.** In: IV Workshop @NUVEM, 2020, p. 1-2.
 
--  SANTOS, A.; BELARMINO, G. D.; CHICARONI, B.; ROCHA, R.V.; GOYA, D.H.; RODRIGUEZ, C.L.; BRANDÃO. A. Avaliação de um Aplicativo de Conteúdo Acessível a Pessoas com Deficiência Auditiva, Cognitiva e Visual com Design Participativo. In: IV Workshop @NUVEM, 2020, p. 1-2.
+-  SANTOS, A.; BELARMINO, G. D.; CHICARONI, B.; ROCHA, R.V.; GOYA, D.H.; RODRIGUEZ, C.L.; BRANDÃO. A. **Avaliação de um Aplicativo de Conteúdo Acessível a Pessoas com Deficiência Auditiva, Cognitiva e Visual com Design Participativo.** In: IV Workshop @NUVEM, 2020, p. 1-2.
 
--  OLIVEIRA, R.N.R.; BELARMINO, G.D., BUORO, D.M.; OLIVEIRA, M.A.; MOTTA, J.P.F.;, PEREIRA, J.R.; BEZERRA, E.S.; SOUZA, R.M.S.; RODRIGUEZ, C.L.; GOYA, D.; ROCHA, R.V. Game Quiz: protótipo de uma plataforma para criação de jogos sérios do tipo quiz. In: IV Workshop @NUVEM, 2020, p. 1-2.
+-  OLIVEIRA, R.N.R.; BELARMINO, G.D., BUORO, D.M.; OLIVEIRA, M.A.; MOTTA, J.P.F.;, PEREIRA, J.R.; BEZERRA, E.S.; SOUZA, R.M.S.; RODRIGUEZ, C.L.; GOYA, D.; ROCHA, R.V. **Game Quiz: protótipo de uma plataforma para criação de jogos sérios do tipo quiz.** In: IV Workshop @NUVEM, 2020, p. 1-2.
 
--  BELARMINO, G.D.; GOYA, D.H. Geração e Adaptação Automáticas de Recursos de Acessibilidade para Jogos Educacionais Digitais. In: IV Encontro Paulista de Pós-graduandos em Computação, 2020, p. 1-4.
+-  BELARMINO, G.D.; GOYA, D.H. **Geração e Adaptação Automáticas de Recursos de Acessibilidade para Jogos Educacionais Digitais.** In: IV Encontro Paulista de Pós-graduandos em Computação, 2020, p. 1-4.
 
 ### 2019
 -  BELARMINO, G. D.; GOYA, D. H. **Algoritmos de Assinatura Digital Baseada em Reticulados Candidatos a Padrão Pós-Quântico.** In: XIX Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais -, 2019, São Paulo. XIII Workshop de Trabalhos de Iniciação Científica e de Graduação (WTICG), 2019.
