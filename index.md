@@ -41,6 +41,22 @@ Situação: Concluído; Natureza: Pesquisa.
 
 ## Publicações
 
+### 2021
+
+-  BELARMINO, Guilherme Dias; OLIVEIRA, Rháleff Nascimento; RODRIGUEZ, Carla Lopes; GOYA, Denise Hideko; ROCHA, Rafaela Vilela. Descrição e análise dos processos de produção de um jogo educacional e seus impactos na sua qualidade. XX Brazilian Symposium on Computer Games and Digital Entertainment, SBGames 2021, Trilha Educação.
+
+-  OLIVEIRA, R.N.R.; BELARMINO, G.D.; RODRIGUEZ, C,; GOYA, D,; ROCHA, R.V.; VENERO, M.L.F.; BENITEZ, P.; KUMADA, K.M.O. Desenvolvimento e Avaliação da Usabilidade e Acessibilidade de um Protótipo de Jogo Educacional Digital para Pessoas com Deficiência Visual. Revista Brasileira de Educação Especial [online]. 2021, v. 27.
+
+### 2020
+
+-  BELARMINO, G. D.; SANTOS, A.; CHICARONI, B.; ROCHA, R.V.; GOYA, D.H.; RODRIGUEZ, C.L.; BRANDÃO. A. Experiência do Design Participativo na Prototipação de um Aplicativo Educacional de Conteúdo Acessível a Pessoas com Deficiência. In: IV Workshop @NUVEM, 2020, p. 1-2.
+
+-  SANTOS, A.; BELARMINO, G. D.; CHICARONI, B.; ROCHA, R.V.; GOYA, D.H.; RODRIGUEZ, C.L.; BRANDÃO. A. Avaliação de um Aplicativo de Conteúdo Acessível a Pessoas com Deficiência Auditiva, Cognitiva e Visual com Design Participativo. In: IV Workshop @NUVEM, 2020, p. 1-2.
+
+-  OLIVEIRA, R.N.R.; BELARMINO, G.D., BUORO, D.M.; OLIVEIRA, M.A.; MOTTA, J.P.F.;, PEREIRA, J.R.; BEZERRA, E.S.; SOUZA, R.M.S.; RODRIGUEZ, C.L.; GOYA, D.; ROCHA, R.V. Game Quiz: protótipo de uma plataforma para criação de jogos sérios do tipo quiz. In: IV Workshop @NUVEM, 2020, p. 1-2.
+
+-  BELARMINO, G.D.; GOYA, D.H. Geração e Adaptação Automáticas de Recursos de Acessibilidade para Jogos Educacionais Digitais. In: IV Encontro Paulista de Pós-graduandos em Computação, 2020, p. 1-4.
+
 ### 2019
 -  BELARMINO, G. D.; GOYA, D. H. **Algoritmos de Assinatura Digital Baseada em Reticulados Candidatos a Padrão Pós-Quântico.** In: XIX Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais -, 2019, São Paulo. XIII Workshop de Trabalhos de Iniciação Científica e de Graduação (WTICG), 2019.
 
@@ -65,7 +81,7 @@ Sou uma pessoa com interesse em diversas áreas, já quis seguir a área de mate
 
 ## Contato e Redes Sociais
 
-<img src="https://image.flaticon.com/icons/svg/281/281769.svg" alt="gmail icon" width="16"/> g.dias@ufabc.edu.br ou guilhermedbelarmino@gmail.com
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail icon" width="16"/> g.dias@ufabc.edu.br ou guilhermedbelarmino@gmail.com
 
 <img src="https://image.flaticon.com/icons/svg/124/124010.svg" alt="facebook icon" width="16"/> diasgui
 
@@ -73,6 +89,6 @@ Sou uma pessoa com interesse em diversas áreas, já quis seguir a área de mate
 
 <img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="instagram icon" width="16"/> \_diasgui
 
-<img src="https://image.flaticon.com/icons/svg/124/124021.svg" alt="twitter icon" width="16"/> \_diasgui
+<img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536424.png?token=exp=1635363700~hmac=b7e2780d847a6e591903e191cfeefa30" alt="twitter icon" width="16"/> \_diasgui
 
 *An english version of this site will be available soon.*
