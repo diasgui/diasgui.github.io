@@ -95,7 +95,7 @@ Sou uma pessoa com interesse em diversas áreas, já quis seguir a área de mate
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin icon" width="16"/> guilherme-dias-belarmino-41b071144
 
-<img src="https://commons.wikimedia.org/wiki/File:Instagram-Icon.png" alt="instagram icon" width="16"/> \_diasgui
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram icon" width="16"/> \_diasgui
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Twitter_icon.png" alt="twitter icon" width="16"/> \_diasgui
 
