@@ -43,9 +43,17 @@ Situação: Concluído; Natureza: Pesquisa.
 
 ### 2021
 
+-  	BELARMINO, Guilherme D.; BEDA, Juliana S. L.; FERREIRA, Poliana N.; GOYA, Denise. **Critérios de Acessibilidade para Jogos Educacionais Digitais que Visam o Desenho Universal.** In: SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO, 32. , 2021, Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 667-678.
+
 -  BELARMINO, Guilherme Dias; OLIVEIRA, Rháleff Nascimento; RODRIGUEZ, Carla Lopes; GOYA, Denise Hideko; ROCHA, Rafaela Vilela. **Descrição e análise dos processos de produção de um jogo educacional e seus impactos na sua qualidade.** XX Brazilian Symposium on Computer Games and Digital Entertainment, SBGames 2021, Trilha Educação.
 
 -  OLIVEIRA, R.N.R.; BELARMINO, G.D.; RODRIGUEZ, C,; GOYA, D,; ROCHA, R.V.; VENERO, M.L.F.; BENITEZ, P.; KUMADA, K.M.O. **Desenvolvimento e Avaliação da Usabilidade e Acessibilidade de um Protótipo de Jogo Educacional Digital para Pessoas com Deficiência Visual.** Revista Brasileira de Educação Especial [online]. 2021, v. 27.
+
+-  BUORO, Diego Martos; ROCHA, Rafaela Vilela; BELARMINO, Guilherme Dias; GOYA, Denise Hideko. **Desenvolvimento de Jogos Orientado a Modelo para Jogos Sérios: uma Revisão Sistemática.** XX Brazilian Symposium on Computer Games and Digital Entertainment, SBGames 2021, Trilha de Artes & Design.
+
+-  OLIVEIRA, R.N.R.; BELARMINO, G.D.; FAVINI, B.; BUORO, D.M.; SASS, C.A.; RODRIGUEZ, C.L.; GOYA, D.H.; ROCHA, R.V. **II Workshop Diversão Séria & Dias da Ada: um relato do planejamento, execução e avaliação de um evento de extensão remoto.** Conectadas Revista Interdisciplinar de Extensão e Cultura da Universidade Federal do ABC, v.4, 2021, p. 151-152.
+
+-  BEZERRA, E.S.; PEREIRA, J.R.; MOTTA, J.P.F.; OLIVEIRA, M.A.; SOUZA, R.M.S.; BUORO, D.M.; BELARMINO, G.D.; OLIVEIRA, R.N.R.; RODRIGUEZ, C.L.; GOYA, D.H.; ROCHA, R.V. **Diversão Séria: Desenvolvimento de Jogos Educacionais.** Conectadas Revista Interdisciplinar de Extensão e Cultura da Universidade Federal do ABC, v.3, 2021, p. 110-111.
 
 ### 2020
 
@@ -70,7 +78,7 @@ Situação: Concluído; Natureza: Pesquisa.
 
 ## Ferramentas
 
-- Linguagens de programação: Tenho mais experiências com as linguagens Java e C#, porém já trabalhei com C, C++, Python, JavaScript, SQL e atualmente estou aprendendo Ruby.
+- Linguagens de programação: Tenho mais experiências com as linguagens Java e C#, porém já trabalhei com C, C++, Python, JavaScript, SQL e Ruby.
 - Softwares: Unity e Construct
 - Sistemas Operacionais: Linux e Windows
 
@@ -83,12 +91,12 @@ Sou uma pessoa com interesse em diversas áreas, já quis seguir a área de mate
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail icon" width="16"/> g.dias@ufabc.edu.br ou guilhermedbelarmino@gmail.com
 
-<img src="https://image.flaticon.com/icons/svg/124/124010.svg" alt="facebook icon" width="16"/> diasgui
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Facebook_icon_2013.svg" alt="facebook icon" width="16"/> diasgui
 
-<img src="https://image.flaticon.com/icons/svg/174/174857.svg" alt="linkedin icon" width="16"/> guilherme-dias-belarmino-41b071144
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin icon" width="16"/> guilherme-dias-belarmino-41b071144
 
-<img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="instagram icon" width="16"/> \_diasgui
+<img src="https://commons.wikimedia.org/wiki/File:Instagram-Icon.png" alt="instagram icon" width="16"/> \_diasgui
 
-<img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536424.png?token=exp=1635363700~hmac=b7e2780d847a6e591903e191cfeefa30" alt="twitter icon" width="16"/> \_diasgui
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Twitter_icon.png" alt="twitter icon" width="16"/> \_diasgui
 
 *An english version of this site will be available soon.*
